@@ -1,6 +1,9 @@
 # Next.js
 Next.js is a **React framework** for the Web that gives you building blocks to create web applications.   
 Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application.
+
+### React JS vs Next JS
+The major difference between Next JS and React JS is performance. If we talk about Next. js applications, they are extremely fast because of the static destinations and server-side rendering.
 ### Vercel
 Vercel is a frontend cloud from the creators of Next.js, making it easy to get started with Next.js quickly.  
 It contains prebuilt template solutions that you can reuse, and deploy.
